@@ -8,7 +8,7 @@ def name
   end
 end
 
-lassie = Dog.new 
-lassie.name= "Lassie"
+lassie = Dog.new lassie.name= "Lassi
+e"
 
 puts lassie.name 
